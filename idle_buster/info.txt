@@ -1,0 +1,11 @@
+{
+	"Name": "Idle Buster",
+	"ID": "Idle Buster",
+	"Author": "JS Irick",
+	"Description": "Power up based on steps.",
+	"ModVersion": 1,
+	"GameVersion": 2.031,
+	"Date": "11/04/2022",
+	"Dependencies": [],
+	"Disabled": 0
+}
